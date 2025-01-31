@@ -56,6 +56,3 @@ A machine learning-powered TV show recommendation system that provides personali
 - [ ] Web app development
 - [ ] Deep learning model (Phase 2)
 
-## License
-
-MIT License 
